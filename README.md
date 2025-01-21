@@ -32,3 +32,5 @@ PyInstaller --onefile --windowed app.py
 2. Run the application.
 3. Select the appropriate COM port from the dropdown menu and click "Connect".
 4. Use the interface to set and monitor voltage and current for each channel.
+
+![image](https://github.com/user-attachments/assets/0c6694ad-bfc7-4df8-8285-25feb10dccb8)
